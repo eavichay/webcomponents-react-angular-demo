@@ -28,7 +28,7 @@ customElements.define('love-component', class extends HTMLElement {
 
   set myText (value) {
 		this._myText = value;
-    this.header.textContent = 'General Motors loves ' + value + this.hearts;
+    this.header.textContent = 'Everyone loves ' + value + this.hearts;
   }
 
   get myText () {
