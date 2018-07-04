@@ -8,7 +8,7 @@ import SuperToast from '../../../wc/super-toast'
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  private title = 'General Motors Demo'
+  private title = 'Angular - Web Components Demo'
 
   public love = 'Web Components'
 
