@@ -50,7 +50,7 @@ class App extends Component {
     return (
       <div className="container">
         <header className="jumbotron">
-          <h1>Welcome to General Motors Demo!</h1>
+          <h1>Welcome to React - Web Components Demo!</h1>
           <img src={logo} className="App-logo" alt="logo" />
         </header>
         <p className="App-intro">
